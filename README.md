@@ -14,7 +14,7 @@ I enjoy developing ML pipelines, preparing data for training, testing algorithms
 
 [<img align="left" alt="AbdelwahedHXH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AbdelwahedHXH | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AbdelwahedHXH | Twir" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][outlook]
+[<img align="left" alt="AbdelwahedHXH | outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/outlook.svg" />][outlook]
 
 
 [linkedin]: https://linkedin.com/in/abdelwahed-rebhi
