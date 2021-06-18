@@ -12,7 +12,7 @@ I enjoy developing ML pipelines, preparing data for training, testing algorithms
 📄 I'm open to any feedbacks, suggestions and offers!
 
 
-### Connect with me:
+### Reach me via:
 
 [<img align="left" alt="AbdelwahedHXH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AbdelwahedHXH | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
